@@ -1,4 +1,4 @@
-## Some Matlab Fixes?
+## Some light Matlab Fixes for data analysis
 
 1) How to get non-empty elements from an array
 2) How to do multiple assignments ex. function "deal" 
