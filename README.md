@@ -6,7 +6,7 @@
    [a,b] = deal(1,2); 
    returns a=1 and b=2
     
-   but suppose this example:
+   but,
    coeff = [1,2]; 
    [a,b] = deal(coeff); 
    returns a = [1,2] and b=[1,2] 
